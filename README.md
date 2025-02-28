@@ -36,8 +36,6 @@ The **Figma file** of this project is available on [Codevo Web](https://codevowe
 ## 🤝 Contributing
 Feel free to fork this repository, enhance features, and submit pull requests.
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 For any questions, reach out via **[workwithme.3215@gmail.com](mailto:workwithme.3215@gmail.com)** or visit my **[GitHub Profile](https://github.com/yashpatil-1)**.
