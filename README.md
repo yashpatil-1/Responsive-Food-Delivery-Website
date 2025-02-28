@@ -30,8 +30,6 @@ This is a **Responsive Food Delivery Website** built using **HTML, CSS, and Java
 ## 🎨 UI/UX Design
 The **Figma file** of this project is available on [Codevo Web](https://codevoweb.com/lc26-build-food-ordering-website-html-css-javascript).
 
-## 📸 Screenshots
-*(Add images of the website here to showcase different sections)*
 
 ## 🤝 Contributing
 Feel free to fork this repository, enhance features, and submit pull requests.
